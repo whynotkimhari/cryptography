@@ -1,5 +1,5 @@
 # cryptography
 
-## [Cryptohack]("cryptohack problems"/)
+## [Cryptohack](cryptohack problems)
 
 ## [Homework](exercises)
